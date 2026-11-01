@@ -137,8 +137,6 @@ The ROS 2 installation steps follow the [official ROS 2 Jazzy installation guide
 ---
 ---
 
-**▲ END OF DOCUMENT: Raspberry Pi OS and ROS 2 Installation_v1 ▲**
-
 ---
 ---
 
@@ -220,7 +218,6 @@ In Terminal 2, confirm that `/scan` appears in `ros2 topic list --no-daemon`, th
 ---
 ---
 
-**▲ END OF DOCUMENT: RViz Visualization Setup_v1 ▲**
 
 ---
 ---
@@ -382,7 +379,7 @@ Never run two Pis from copies of the same SD card at the same time, because they
 ---
 ---
 
-**▲ END OF DOCUMENT: Wi-Fi Static IP / Peer-to-Peer Network Configuration_v1 ▲**
+
 
 ---
 ---
